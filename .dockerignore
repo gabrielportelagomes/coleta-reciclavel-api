@@ -1,0 +1,9 @@
+# Ignora tudo por padrão
+*
+
+# Permite explicitamente os arquivos necessários para o build do Maven/Quarkus
+!pom.xml
+!src/**
+!mvnw
+!mvnw.cmd
+!.mvn/**
